@@ -1,0 +1,2 @@
+def anbyungmin(name):
+print(name + "할수있다")
